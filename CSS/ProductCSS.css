@@ -1,0 +1,12 @@
+.carousel-inner > .item > img {
+    margin: 0 auto;
+}
+     .jumbotron {
+      margin-bottom: 0;
+      background-color: lightblue;
+      padding: 15px;
+    }
+    
+       #myFooter{
+            background-color: lightblue;
+    }

@@ -1,0 +1,24 @@
+     .jumbotron {
+      margin-bottom: 0;
+      background-color: lightblue;
+      padding: 15px;
+    }
+    #myFooter{
+            background-color: lightblue;
+    }
+
+    #Category1, #Category2, #Category3 {
+      background-color: #F8F8F8;
+      padding: 10px;
+    }
+ 
+ .CAG {
+ 	font-size: 150px;
+ }
+#CA{
+border-left: 1px solid silver; 
+}
+#CT{
+	color: lightblue;
+}
+}
